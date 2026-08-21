@@ -37,13 +37,13 @@
 
 공식 설치 파일은 **GitHub Releases**에 게시됩니다([translate.imagoo.ai](https://translate.imagoo.ai)에서도 링크):
 
-**릴리스 페이지:** [image_translator_unlimited_release_1.0.0](https://github.com/imagooai/image_translator_unlimited/releases/tag/image_translator_unlimited_release_1.0.0)
+**릴리스 페이지:** [image_translator_unlimited_1.0.0](https://github.com/imagooai/image_translator_unlimited/releases/tag/image_translator_unlimited_1.0.0)
 
 | 플랫폼 | 다운로드 |
 |--------|----------|
-| **Windows** (64비트) | [ImageTranslatorUnlimited_1.0.0_x64-setup.exe](https://github.com/imagooai/image_translator_unlimited/releases/download/image_translator_unlimited_release_1.0.0/ImageTranslatorUnlimited_1.0.0_x64-setup.exe) |
-| **macOS Apple Silicon** (M1/M2/M3/M4) | [ImageTranslatorUnlimited_1.0.0_aarch64.dmg](https://github.com/imagooai/image_translator_unlimited/releases/download/image_translator_unlimited_release_1.0.0/ImageTranslatorUnlimited_1.0.0_aarch64.dmg) |
-| **macOS Intel** | [ImageTranslatorUnlimited_1.0.0_x64.dmg](https://github.com/imagooai/image_translator_unlimited/releases/download/image_translator_unlimited_release_1.0.0/ImageTranslatorUnlimited_1.0.0_x64.dmg) |
+| **Windows** (64비트) | [image_translator_unlimited_1.0.0_x64-setup.exe](https://github.com/imagooai/image_translator_unlimited/releases/download/image_translator_unlimited_1.0.0/image_translator_unlimited_1.0.0_x64-setup.exe) |
+| **macOS Apple Silicon** (M1/M2/M3/M4) | [image_translator_unlimited_1.0.0_aarch64.dmg](https://github.com/imagooai/image_translator_unlimited/releases/download/image_translator_unlimited_1.0.0/image_translator_unlimited_1.0.0_aarch64.dmg) |
+| **macOS Intel** | [image_translator_unlimited_1.0.0_x64.dmg](https://github.com/imagooai/image_translator_unlimited/releases/download/image_translator_unlimited_1.0.0/image_translator_unlimited_1.0.0_x64.dmg) |
 
 ## 설치
 
